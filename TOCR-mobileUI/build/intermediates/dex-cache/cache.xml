@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-22.2.1_ffb089052fe1ee1bb94b696b940acccec92846ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/pre-dexed/release/internal_impl-22.2.1_ec4429c035975698a014484d03951cf680337c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/pre-dexed/release/support-annotations-22.2.1_f9344be49244583fe42d731be0e676ef9876f95f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/pre-dexed/release/bolts-android-1.2.0_9a20f6aa6cba848f5ee7d43f41f0417b4fcbb810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-android-sdk-4.7.0_852abdd6b495b50e7246506ad9fc95986f370a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/pre-dexed/release/okio-1.6.0_c19c2b2f49f56aa481b84ee83bcc3eb0eaa3c7cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/pre-dexed/release/okhttp-2.7.5_cc6f36fc158178c137910cb626c2489d98cc677a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/exploded-aar/com.rmtheis/tess-two/6.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="27377d2be96cab8211f228b424f221f34a0fa5bc">
+        <dex dex="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/pre-dexed/release/com.rmtheis-tess-two-6.0.4_b085e3254005fee41cd41a41f0833712cfc8b452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/ivan/mcc-2016-g13-p2/TOCR-mobileUI/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-22.2.1_5de7e2f06a156a4d076cf2450c64d72cf841718d.jar" />
+    </item>
+
+</items>
