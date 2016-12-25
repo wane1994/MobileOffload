@@ -1,8 +1,8 @@
 # MobileOffload
 
 This application was implemented realize a mobile application that performs local processing and also offloads computation (as well as storage) to a remote server. 
-In particular, such an application shall extract the text contained in a source image through optical character recognition (OCR). 
-The OCR service shall be provided by the remote server by using software containers. 
+In particular, such an application extracts the text contained in a source image through optical character recognition (OCR). 
+The OCR service is provided by the remote server by using software containers. 
 The project uses the Tesseract Open Source OCR Engine (https://github.com/tesseract-ocr) for the project.
 
 Classes are separated in four groups: activities, with the actual activities of the application; fragments, 
